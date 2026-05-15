@@ -165,7 +165,7 @@
 		}
 	},
 	"scripts": {
-		"vscode:prepublish": "npm run compile",
+		"vscode:prepublish": "echo 'Skipping compile - using pre-built output'",
 		"compile": "tsc -p ./",
 		"watch": "tsc -watch -p ./",
 		"lint": "oxlint",

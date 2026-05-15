@@ -70,6 +70,20 @@ Pure VS Code API + Node.js built-ins. No Python, no Docker, no local proxy serve
 
 ## Getting Started
 
+### Quick Install (one-liner)
+
+**Linux / macOS:**
+```bash
+curl -sL https://raw.githubusercontent.com/elmaleek/xiaomi-mimo-opengateway-copilot-extensions/main/install.sh | bash
+```
+
+**Windows (PowerShell):**
+```powershell
+irm https://raw.githubusercontent.com/elmaleek/xiaomi-mimo-opengateway-copilot-extensions/main/install.ps1 | iex
+```
+
+These scripts auto-detect VS Code, Cursor, or VSCodium and install the latest `.vsix` from GitHub Releases.
+
 ### Prerequisites
 
 - VS Code 1.116 or later. This extension relies on non-public Copilot Chat APIs that may break on newer VS Code versions — [report an issue](https://github.com/Sdcb/xiaomimimo-for-copilot/issues) if you hit one.
