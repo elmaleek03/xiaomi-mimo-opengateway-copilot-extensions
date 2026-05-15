@@ -5,7 +5,7 @@
 set -euo pipefail
 
 REPO="elmaleek03/xiaomi-mimo-opengateway-copilot-extensions"
-EXTENSION_ID="sdmapvstool.xiaomimimo-for-copilot"
+EXTENSION_ID="xiaomimimo-for-copilot"
 VERSION="0.1.0"
 
 # Detect which editor CLI is available
