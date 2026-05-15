@@ -36,7 +36,7 @@ exports.MODELS = [
         maxOutputTokens: 131072,
         capabilities: {
             toolCalling: true,
-            imageInput: false,
+            imageInput: true,
             thinking: true,
         },
         requiresThinkingParam: false,
