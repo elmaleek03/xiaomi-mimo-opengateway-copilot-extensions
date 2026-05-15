@@ -4,7 +4,7 @@
 $ErrorActionPreference = "Stop"
 
 $Repo = "elmaleek03/xiaomi-mimo-opengateway-copilot-extensions"
-$ExtensionId = "sdmapvstool.xiaomimimo-for-copilot"
+$ExtensionId = "xiaomimimo-for-copilot"
 $Version = "0.1.0"
 
 function Find-Editor {
