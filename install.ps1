@@ -3,7 +3,7 @@
 
 $ErrorActionPreference = "Stop"
 
-$Repo = "elmaleek/xiaomi-mimo-opengateway-copilot-extensions"
+$Repo = "elmaleek03/xiaomi-mimo-opengateway-copilot-extensions"
 $ExtensionId = "sdmapvstool.xiaomimimo-for-copilot"
 $Version = "0.1.0"
 

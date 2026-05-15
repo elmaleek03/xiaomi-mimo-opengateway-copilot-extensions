@@ -4,7 +4,7 @@
 
 set -euo pipefail
 
-REPO="elmaleek/xiaomi-mimo-opengateway-copilot-extensions"
+REPO="elmaleek03/xiaomi-mimo-opengateway-copilot-extensions"
 EXTENSION_ID="sdmapvstool.xiaomimimo-for-copilot"
 VERSION="0.1.0"
 

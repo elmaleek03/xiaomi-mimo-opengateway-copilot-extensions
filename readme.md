@@ -74,12 +74,12 @@ Pure VS Code API + Node.js built-ins. No Python, no Docker, no local proxy serve
 
 **Linux / macOS:**
 ```bash
-curl -sL https://raw.githubusercontent.com/elmaleek/xiaomi-mimo-opengateway-copilot-extensions/main/install.sh | bash
+curl -sL https://raw.githubusercontent.com/elmaleek03/xiaomi-mimo-opengateway-copilot-extensions/main/install.sh | bash
 ```
 
 **Windows (PowerShell):**
 ```powershell
-irm https://raw.githubusercontent.com/elmaleek/xiaomi-mimo-opengateway-copilot-extensions/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/elmaleek03/xiaomi-mimo-opengateway-copilot-extensions/main/install.ps1 | iex
 ```
 
 These scripts auto-detect VS Code, Cursor, or VSCodium and install the latest `.vsix` from GitHub Releases.
