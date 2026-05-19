@@ -1,5 +1,5 @@
 # Install Xiaomi MiMo for Copilot Chat extension for VS Code / Cursor
-# Usage: irm https://raw.githubusercontent.com/elmaleek/xiaomi-mimo-opengateway-copilot-extensions/main/install.ps1 | iex
+# Usage: irm https://raw.githubusercontent.com/elmaleek/xiaomi-mimo-opengateway-copilot-extensions/refs/heads/main/install.ps1 | iex
 
 $ErrorActionPreference = "Stop"
 
